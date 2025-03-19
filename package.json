@@ -1,0 +1,39 @@
+{
+    "name": "gasprice-tracker-ethereum",
+    "version": "1.0.0",
+    "description": "A utility library for Ethereum gas price tracking and some basic utils.",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Soundar6385/Gas_Tracker.git"
+    },
+    "keywords": [
+        "ethereum",
+        "wallet",
+        "crypto",
+        "web3",
+        "ethers",
+        "private-key",
+        "encryption",
+        "gas",
+        "gasprice",
+        "tracker",
+        "price"
+    ],
+    "author": "Soundar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Soundar6385/Gas_Tracker/issues"
+    },
+    "homepage": "https://github.com/Soundar6385/Gas_Tracker#readme",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org"
+    },
+    "dependencies": {
+        "axios": "^1.8.3"
+    }
+}
